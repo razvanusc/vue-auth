@@ -1,9 +1,17 @@
 # Vue Authentication
 
-## To run the application:
+## Getting started
+
+### Installing
+
+These instructions will get you a copy of the project up and running on your local machine.
+
+Install missing packages
+```
+npm install
 ```
 
-npm install
+Run local development server
 ```
 npm run serve
 ```
