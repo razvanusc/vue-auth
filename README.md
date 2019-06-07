@@ -16,6 +16,11 @@ Run local development server
 npm run serve
 ```
 
+Open in browser
+```
+http://localhost:8080/ 
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
